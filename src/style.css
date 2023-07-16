@@ -20,6 +20,10 @@ body {
   flex-direction: column;
 }
 
+.red {
+  color: red;
+}
+
 .topSuit {
   display: flex;
   justify-content: flex-start;
